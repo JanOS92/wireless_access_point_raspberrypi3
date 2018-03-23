@@ -44,8 +44,7 @@ FLAG="##3be9f957f29f905f10f7b652cab1c95ba8a2c205"
 echo "--------------------------------"
 echo "Rasperry Pi 3 Access-Point setup"
 echo "--------------------------------"
-echo "source: Lewiscowles1986 (GitHub)"
-echo "modified by: JanOS92 (GitHub)"
+echo "JanOS92 (GitHub)"
 echo ""
 
 # Purge and install some required packages
